@@ -1,0 +1,151 @@
+ambe: 2270 QUÉ (DE PREGUNTA)
+no: 1633 NO
+ka: 1554 Y
+enga: 1328 QUE (DE CONJUNCION)
+sési: 1265 BIEN
+ma: 933 UNO
+je: 820 QUE
+engaksï: 753 QUIENES
+eska: 744 VER
+úni: 567 HUESO
+jimbo: 534 PARA
+para: 507 PARA 
+jingoni: 477 CON
+sánderu: 460 MAS
+xáni: 408 CUANTOS
+engajtsï: 361 QUIENES, QUE
+na: 337 COMO
+ísï: 337 SI
+o: 321 O
+tata: 320 SEÑOR
+imani: 276 ESE
+engachi: 263 QUIENES, QUE
+ambakiti: 255 BUENO
+eskaksï: 249 QUE
+jaka: 214 ESTA
+ima: 212 ESE
+kánikua: 207 MUCHO
+máteru: 206 OTRO
+eskachi: 206 QUIENES, QUE
+i: 205 
+jarhani: 200 ESTAR
+jauaka: 195 ESTARA
+uaaka: 186 HARÉ
+iámindu: 185 TODOS
+kʼuiripuecha: 167 PERSONAS
+nóteru: 167 YA NO
+uandasïndi: 161 HABLAN
+diosï: 158 DIOS
+uánikua: 156 MUCHOS
+máru: 152 MANERA
+újka: 151 HAGO
+exeni: 146 VER
+chári: 146 VESTIMENTA DE CHANGO o DEMONIO
+parajtsï: 144 PARA
+úsïndi: 140 HACE
+kʼuiripu: 135 PERSONA
+nema: 134 ALGUIEN
+kómu: 132 ANCHO
+exe: 124 VER
+karakata: 124 LIBRO
+ístu: 123 MISMO
+--: 120
+tsípikua: 116 ALEGRIA
+chaari: 116 CHANGO
+míteni: 115 CONOCER
+irekani: 114 VIVIR
+néna: 114 SEÑORA
+pʼikuarherani: 113 SENTIR
+uáka: 113 HARÉ
+paraksï: 112 PARA
+peru: 111 PERO
+méntkisï: 110 SIEMPRE
+jásï: 109 ESTÁ
+parachi: 109 PARA 
+engani: 108 QUE
+anapu: 107 ES DE, DE
+ini: 104 ESTE
+uandajka: 101 HABLA
+máteruecha: 100 LOS OTROS 
+nemani: 98 ALGUIEN
+juchaari: 98 NUESTRO 
+jarhasti: 97 ESTA
+andisï: 94 POR QUÉ
+orhepani: 94 EN FRENTE
+jimboka: 93 POR LO TANTO, ENTONCES
+eskajtsï: 90 QUE
+ejemplu: 89EJEMPLO
+sapiicha: 89 NIÑOS, CHICOS
+joperu: 89 PERO
+jukari: 88 TIENE
+máteruechani: 88 OTROS 
+parhakpinirhu: 81
+sapiichani: 81 A LOS NIÑOS 
+jarhajka: 81ESTÁ
+bibliaeri: 80 BIBLIA
+kʼéri: 80 GRANDE
+inde: 79 ESE
+asï: 79 NO
+diosïri: 78  DE DIOS
+ju: 77 VAMOS
+jorhenguarhini: 75 APRENDER
+iásï: 75 HOY
+uandanhiani: 75
+imecha: 75 ESOS 
+biblieri: 75 BIBLIA
+engari: 74 QUE 
+jamberi: 73 QUE 
+engajtsïni: 73 QUE 
+kʼuiripuechaksï: 72 PERSONAS
+de: 72 DE
+paraka: 72 PARA QUE
+nóksï: 71 NO
+kʼuiripuechani: 71 PERSONAS
+tiempu: 70 TIEMPO
+májkueni: 70 ACOMODAR
+imeecha: 70 ELLOS
+solu: 69 SOLO
+uaa: 69
+juchari: 66 NUESTRO
+úrani: 66 USAR
+imeeri: 65 DE ÉL
+imeri: 64 DE ÉL
+sóntku: 63 PRONTO
+jimbokaksï: 62 POR LO QUE
+engaksïni: 61 QUE
+indeni: 59 ESE
+jima: 58 AHI
+úsïnga: 58 SABER HACER
+májku: 57 DEL MISMO, AL MISMO TIEMPO
+nani: 56 DONDE
+arhikuekasïni: 56 QUIERE DECIR
+asta: 56 HASTA 
+sapi: 56 CHICO
+uáti: 56 HARÁ
+méni: 54 AVECES
+úkuarhini: 54 MORIR
+ísku: 54 SOLO
+arini: 54 DECIR
+juchiti: 53 MIO
+jiáni: 53 QUIZAS ES: jiandí (QUE SIGNIFICA YO POR QUE) ó jani (QUE ES "LLOVER")
+uá: 53
+ni: 52 NI
+jucha: 52 NOSOTROS
+diosïni: 52 DIOS
+jarhaska: 52 ESTAMOS
+menusi: 52 MENOS
+echerirhu: 51 TIERRA
+jatsini: 51 TENEMOS 
+eratseni: 51 PENSAR
+úkua: 50 QUEHACER
+sino: 50 SINO
+iámu: 50 TODO
+ánchikuarhita: 49 DE TRABAJO, HERRAMIENTA DE TRABAJO
+ji: 47 YO
+pájperani: 47 LLEVARSE (DE LLEVARSE BIEN O MAL CON PERSONAS)
+uarhiranchaka: 47 DE MORIR
+jandiajku: 46 SOLO
+jarhuatani: 46 AYUDAR
+nómbe: 46 NADA
+uarhiiti: 46 SE VA A MORIR
+
